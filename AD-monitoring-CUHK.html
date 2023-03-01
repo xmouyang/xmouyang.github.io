@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="./AD-files/bootstrap.min.css">
   <link rel="stylesheet" href="./AD-files/temp.css">
   <link rel="stylesheet" href="./AD-files/MalleConv_style.css">
-  <link href="https://www.google.com/favicon.ico" rel="icon">
+ <!-- <link href="https://www.google.com/favicon.ico" rel="icon"> -->
 </head>
 
 <body data-gr-c-s-loaded="true" data-new-gr-c-s-check-loaded="14.1043.0" data-gr-ext-installed="">
@@ -15,8 +15,9 @@
   <table border="0" align="center">
     <tbody><tr>
       <td width="1500" height="200" align="center" valign="middle">
-      <span class="title"><h1>Fast and High-quality Image Denoising via <br> Malleable Convolutions</h1></td>
+      <span class="title"><h1>Machine Learning Technologies for Advancing Digital Biomarkers for Alzheimer's Disease</h1></td>
     </tr>
+      <!--  
     <tr>
         <td colspan="3" align="center"><h5>
             <a href="https://yifanjiang.net/" target="_blank">Yifan Jiang<sup>1, 2</sup></a>, 
@@ -34,12 +35,14 @@
     <tr>
         <td colspan="3" align="center"><h5> <a href="https://arxiv.org/pdf/2201.00392.pdf" target="_blank">[Paper]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./MalleConv_files/MalleConv.zip" target="_blank">[Code]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./MalleConv_files/supplementary.pdf" target="_blank">[Supplementary Materials]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h5></td>
     </tr>
+   -->
   </tbody></table>
   <br>
-  <p><img src="./MalleConv_files/difference.png" style="margin:auto;max-width:100%" align="middle"></p>
+  
+  <p><img src="./AD-files/ADMarker-overview.png" style="margin:auto;max-width:100%" align="middle"></p>
   <div class="text" style="text-align: left;">
-      <h2>Abstract</h2>
-      <p>Many image processing networks apply a single set of static convolutional kernels across the entire input image, which is sub-optimal for natural images, as they often consist of heterogeneous visual patterns. Recent works in classification, segmentation, and image restoration have demonstrated that dynamic kernels outperform static kernels at modeling local image statistics. However, these works often adopt per-pixel convolution kernels, which introduce high memory and computation costs. To achieve spatial-varying processing without significant overhead, we present Malleable Convolution (MalleConv), as an efficient variant of dynamic convolution. The weights of MalleConv are dynamically produced by an efficient predictor network capable of generating content-dependent outputs at specific spatial locations. Unlike previous works, MalleConv generates a much smaller set of spatially-varying kernels from input, which enlarges the network's receptive field and significantly reduces computational and memory costs. These kernels are then applied to a full-resolution feature map through an efficient slice-and-conv operator with minimum memory overhead. We further build an efficient denoising network using MalleConv, coined as MalleNet. It achieves high quality results without very deep architecture, e.g., reaching 8.91x faster speed compared to the best performed denoising algorithms (SwinIR), while maintaining similar performance. We also show that a single MalleConv added to a standard convolution-based backbone can contribute significantly to reducing the computational cost or boosting image quality at a similar cost</p>
+      <h2>Overview</h2>
+      <p>Alzheimer’s Disease (AD) and related dementia are a growing global health challenge due to the aging population. In this paper, we present ADMarker, the first end-to-end system that integrates multi-modal sensors and federated learning algo- rithms for detecting multidimensional AD digital biomarkers in natural living environments. ADmarker features a novel three-stage multi-modal federated learning architecture that can accurately detect digital biomarkers in a real-time and privacy-preserving manner. Our approach collectively ad- dresses several major real-world challenges, such as limited data labels, data heterogeneity, and limited computing re- sources. We built a compact multi-modality hardware system and deployed it in a four-week clinical trial involving 61 el- derly participants. The results indicate that ADMarker can accurately detect a comprehensive set of digital biomarkers with up to 95% accuracy and identify AD with an average of 87.5% accuracy. ADMarker offers a new platform that can allow AD clinicians to characterize and track the complex correlation between multidimensional interpretable digital biomarkers, demographic factors of patients, and AD diag- nosis in a longitudinal manner.</p>
   </div>
 </div>
 
