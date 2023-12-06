@@ -98,9 +98,9 @@
 	  <tr onmouseout="admarker_stop()" onmouseover="admarker_start()">
 	    <td style="padding:10px;width:25%;vertical-align:middle">
 	      <div class="one">
-		<div class="two" id='cosmo_image'>
-		  <img src='images/admarker-teaser-figure.png' width="210"></div>
-		<img src='images/admarker-teaser-figure.png' width="210">
+		<div class="two" id='admarker_image'>
+		  <img src='images/admarker-teaser-figure.png' width="220"></div>
+		<img src='images/admarker-teaser-figure.png' width="220">
 	      </div>
 	      <script type="text/javascript">
 		function admarker_start() {
@@ -110,7 +110,7 @@
 		function admarker_stop() {
 		  document.getElementById('admarker_image').style.opacity = "0";
 		}
-		harmony_stop()
+		admarker_stop()
 	      </script>
 	    </td>
             <td style="padding:10px;width:75%;vertical-align:middle">
@@ -129,7 +129,7 @@
   	<tr onmouseout="harmony_stop()" onmouseover="harmony_start()">
 	    <td style="padding:10px;width:25%;vertical-align:middle">
 	      <div class="one">
-		<div class="two" id='cosmo_image'>
+		<div class="two" id='harmony_image'>
 		  <img src='images/harmony-teaser-figure.png' width="210"></div>
 		<img src='images/harmony-teaser-figure.png' width="210">
 	      </div>
