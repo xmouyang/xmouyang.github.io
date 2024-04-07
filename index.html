@@ -121,8 +121,8 @@
 
 	  <tr onmouseout="llmsense_stop()" onmouseover="llmsense_start()">
 	    <td style="padding:5px;width:25%;vertical-align:middle">
-	      <div class="one">
-		<div class="two" id='llmsense_image'>
+	      <div class="one" style="text-align: center;">
+		<div class="two" id='llmsense_image' style="display: inline-block;">
 		  <img src='images/llmsense-teaser-figure-2.png' width="230"></div>
 		<img src='images/llmsense-teaser-figure-2.png' width="230">
 	      </div>
@@ -130,7 +130,7 @@
 		function llmsense_start() {
 		  document.getElementById('llmsense_image').style.opacity = "1";
 		}
-
+`
 		function llmsense_stop() {
 		  document.getElementById('llmsense_image').style.opacity = "0";
 		}
