@@ -1,0 +1,54 @@
+"MobiCom":
+  color: "#f92080" # pink
+
+"MobiCom'24":
+  color: "#f92080" # pink
+
+"MobiCom'22":
+  color: "#f92080" # pink
+
+"MobiCom'22 Demo":
+  color: "#f92080" # pink
+
+
+"MobiSys":
+  color: "#f29105" # orange
+
+"MobiSys'23":
+  color: "#f29105" # orange
+
+"MobiSys'23 RisingStar":
+  color: "#f29105" # orange
+
+"MobiSys'21":
+  color: "#f29105" # orange
+
+
+"SenSys":
+  color: "#0076df" # blue
+
+"SenSys-ML'24":
+  color: "#0076df" # blue
+
+"SenSys'21":
+  color: "#0076df" # blue
+
+
+"Preprint":
+  color: "#00ab37" # orange
+
+
+"TOSN":
+  color: "#00ab37" # green
+
+
+"IEEE Network":
+  color: "#00ab37" # green
+
+
+"IROS'24":
+  color: "#b509ac" # purple
+
+
+"INFOCOM'24 Demo":
+  color: "#828282" # grey
