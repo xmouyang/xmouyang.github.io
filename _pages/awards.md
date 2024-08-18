@@ -14,13 +14,13 @@ NIH mHealth Training Institute (mHTI), 2024
 **[Rising Stars in EECS](https://eecsrisingstars2023.cc.gatech.edu/participants/)**\
 Georgia Institute of Technology, 2023
 
-**[Outstanding Doctoral Dissertation Award](https://xmouyang.github.io/data/SIGBED_China_best_dissertation.pdf)**\
+**[Outstanding Doctoral Dissertation Award](https://xmouyang.github.io/assets/pdf/SIGBED_China_best_dissertation.pdf)**\
 ACM SIGBED China Chapter, 2023
 
-**[Best Paper Award](https://xmouyang.github.io/data/MobiSys_best_paper.pdf)** (1/198)\
+**[Best Paper Award](https://xmouyang.github.io/assets/pdf/MobiSys_best_paper.pdf)** (1/198)\
 ACM MobiSys, 2023
 
-**[Best Presentation Award of Rising Stars Forum](https://xmouyang.github.io/data/MobiSys_rising_stars_best_presentation.pdf)**\
+**[Best Presentation Award of Rising Stars Forum](https://xmouyang.github.io/assets/pdf/MobiSys_rising_stars_best_presentation.pdf)**\
 ACM MobiSys, 2023
 
 **N2Women Young Researcher Fellowship**\
