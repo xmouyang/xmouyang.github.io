@@ -17,8 +17,8 @@ profile:
     <p><a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a></p>
     <p><a href="https://seng.hkust.edu.hk/">School of Engineering </a></p>
     <p><a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a></p>
-    <p><b>Email:</b><a href="mailto:xmouyang@cse.ust.hk">xmouyang@cse.ust.hk</a></p>
-    <p><b>Office:</b><a href="https://pathadvisor.ust.hk/search/nearest/lift/from/3562/floor/3/at/normalized/2424,-217,3">Room 3562<a>, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong</p>
+    <p>Email:<a href="mailto:xmouyang@cse.ust.hk">xmouyang@cse.ust.hk</a></p>
+    <p>Office:<a href="https://pathadvisor.ust.hk/search/nearest/lift/from/3562/floor/3/at/normalized/2424,-217,3">Room 3562<a>, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
