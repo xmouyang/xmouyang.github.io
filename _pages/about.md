@@ -46,5 +46,5 @@ My research interest is building **AI-powered mobile and IoT systems**, with a p
 **Key words of my recent research topics:** Multi-Modal Sensing and Learning, Federated Learning Systems, Large Language Models, Activity Recognition, Digital Biomarkers, ToF Depth Sensing Systems.
 -->
 
-I am always actively looking for highly motivated students to join my group (**Earliest round for Ph.D./M.Phil: 2025 Spring/Fall**). I also have several research internship positions opening starting anytime. See [openings](https://xmouyang.github.io/opening/) for more details. Please [email me](xmouyang@cse.ust.hk) your CV and transcript if you are interested in.
+I am always actively looking for highly motivated students to join my group (**Earliest round for Ph.D.: 2025 Spring/Fall**). I also have several research internship positions opening starting anytime. See [openings](https://xmouyang.github.io/opening/) for more details. Please [email me](xmouyang@cse.ust.hk) your CV and transcript if you are interested in.
 
