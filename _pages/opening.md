@@ -4,13 +4,15 @@ permalink: /opening/
 title: Openings
 ---
 
-Thank you for your interest in the [Mobile, Intelligent, and Networked System (MINSys) Group @ HKUST CSE](https://kurt232.github.io/Team/), lead by Dr. [Xiaomin Ouyang](https://xmouyang.github.io/). We have **multiple Ph.D./ M.Phil. openings** for strong candidates starting in **Spring/Fall 2025**.
+Thank you for your interest in the [Mobile, Intelligent, and Networked System (MINSys) Group @ HKUST CSE](https://kurt232.github.io/Team/), lead by Dr. [Xiaomin Ouyang](https://xmouyang.github.io/). I am always actively looking for strong and self-motivated students! Current, We have **multiple Ph.D./ M.Phil. openings** for strong candidates starting in **Fall 2025**. I encourage you to reach out early to ensure consideration. I also have several research internship positions opening starting anytime. Please drop me an email if you are interested.
+
+
 
 **The successful candidate of PhD will be provided with a full scholarship** (220,320 HKD annually). Excellent candidates can be nominated to apply [Hong Kong PhD Fellowship](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) (331,200 HKD annually with extra allowance) starting in Fall 2025. For more details, please refer to the [admission page of HKUST CSE](https://cse.hkust.edu.hk/pg/admissions/).
 
 **Major research topics**:
-- **AI-powered IoT systems**: address real-world data and system challenges for advancing AI in mobile/IoT systems.
-- **Smart health**: design and deploy real-world AIoT systems for personalized health monitoring and intervention.
+- **ML for IoT**: address real-world data and system challenges for advancing AI in mobile/IoT systems.
+- **Smart Health**: design and deploy real-world AIoT systems for personalized health monitoring and intervention.
 - **Mobile Sensing**: enhance sensing quality with physics-strengthened AI techniques.
 
 **Application**: Please email your CV (with GPA ranking, pubs and awards) and transcript to Dr. Ouyang ([xmouyang@cse.ust.hk](xmouyang@cse.ust.hk)) with the subject “PhD Application - Your Name -Your University” if you are interested.
