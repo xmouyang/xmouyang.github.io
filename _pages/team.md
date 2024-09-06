@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+I am actively looking for highly motivated students to join my group (**Earliest round for Ph.D./M.Phil: 2025 Spring/Fall**). See [openings](https://xmouyang.github.io/opening/) for more details. Please [email me](xmouyang@cse.ust.hk) your CV and transcript if you are interested in.
+
 I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**) Group @ HKUST CSE. I am fortunate to work with the following members:
 
 - **Postgraduate Students**
