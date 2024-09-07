@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Xiaomin_image_2408.JPG
+  image: Xiaomin_OUYANG_photo.JPG
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
