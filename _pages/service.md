@@ -9,7 +9,7 @@ nav_order: 4
 
 **Organizing Committee**
 
-- TPC Co-Chair of FMSys Workshop 2024
+- TPC Co-Chair of [FMSys Workshop 2024](https://fmsys24.github.io/)
 - Web Chair of ACM/IEEE IPSN 2024
 - Organizer of N2Women (Networking Networking Women) Meeting at ACM MobiSys 2023
 
