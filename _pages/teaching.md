@@ -12,6 +12,8 @@ nav_order: 2
 
 
 **Talks**
+- **Advancing Machine Learning in Internet of Things Systems for Smart Health.**\
+Huawei, Sep 2024.
 - **Design and Deployment of AI-powered IoT Systems for Smart Health.**\
 Tsinghua University, AIR-AIoT Seminar, Hosted by <a href="https://yuanchun-li.github.io/">Prof. Yuanchun Li</a> and <a href="https://yunxinliu.github.io/">Prof. Yunxin Liu</a>, Aug 2024.
 - **Design and Deployment of AI-powered IoT Systems for Smart Health.**\
