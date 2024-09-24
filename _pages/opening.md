@@ -15,7 +15,7 @@ Thank you for your interest in the [Mobile, Intelligent, and Networked System (M
 - **Smart Health**: design and deploy real-world AIoT systems for personalized health monitoring and intervention.
 - **Mobile Sensing**: enhance sensing quality with physics-strengthened AI techniques.
 
-**Application**: Please email your CV (with GPA ranking, pubs and awards) and transcript to Dr. Ouyang ([xmouyang@cse.ust.hk](xmouyang@cse.ust.hk)) with the subject “PhD Application - Your Name -Your University” if you are interested.
+**Application**: Please email your CV (with GPA ranking, pubs and awards) and transcript to Dr. Ouyang (<a href="mailto:xmouyang@cse.ust.hk">xmouyang@cse.ust.hk</a>) with the subject “PhD Application - Your Name -Your University” if you are interested.
 
 **Eligibility**:
 - Hold a bachelor’s or master’s degree in Computer Science, Electrical Engineering, or related fields from well-known universities in mainland China or worldwide.
