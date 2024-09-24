@@ -16,7 +16,7 @@ profile:
     <h5>Assistant Professor</h5>
     <p><a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a></p>
     <!--<p><a href="https://seng.hkust.edu.hk/">School of Engineering </a></p>-->
-    <p><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a></p>
+    <p><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a></p>
     <p>Email:<a href="mailto:xmouyang@cse.ust.hk">xmouyang@cse.ust.hk</a></p>
     <p>Office:<a href="https://pathadvisor.ust.hk/search/nearest/lift/from/3562/floor/3/at/normalized/2424,-217,3">Room 3562<a>, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong</p>
 
