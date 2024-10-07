@@ -36,7 +36,7 @@ I am an Assistant Professor at Department of Computer Science & Engineering, Hon
 
 <!-- I also worked closely with [Prof. Jiayu Zhou](https://jiayuzhou.github.io/) in my PhD.-->
 
-My research interest is building **AI-powered mobile and IoT systems**, with a primary focus on developing efficient machine learning and sensing systems for **smart health** applications.
+My research interest is **empowering mobile and IoT devices with AI** to create **ambient intelligence**. Currently, our group primaryly focus on developing efficient machine learning and sensing systems for **smart health** applications.
 
 - **Machine Learning for IoT Systems**: address real-world data and system challenges for advancing ML in mobile/IoT systems.
 - **Smart Health**: design and deploy real-world IoT systems for personalized health monitoring and intervention, e.g., [monitoring digital biomarkers of Alzheimer’s Disease](https://cuhk-alzheimers-ai.github.io/).
