@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 **Teaching**
-- 2025 Spring: TBD
+- 2025 Spring: Advanced Topics in Embedded AI Systems
 
 
 **Talks**
