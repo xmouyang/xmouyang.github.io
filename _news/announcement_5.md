@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on TSFM for building analytics accepted by [BuildSys'24](https://buildsys.acm.org/2024/).
+One paper on foundation model for building analytics accepted by [BuildSys'24](https://buildsys.acm.org/2024/).
