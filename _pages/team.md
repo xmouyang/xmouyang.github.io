@@ -14,6 +14,8 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
 - **Postgraduate Students**
     - Runxi Huang (Ph.D. student, MS NTU, BS BeiHang U.), 2024 Fall -
     - Wenjie Du (M.Phil. student, BS Sichuan U.), 2024 Fall -
+    - Yuzhu Mao (Ph.D. student, MS Tsinghua U., BS Wuhan U.), 2025 Fall -
+    - Yizhen Wang (Ph.D. student, BS Zhejiang U.), 2025 Fall -
  
 - **Visiting Students**
     - Hengle Jiang, Undergraduate Student from SUSTech, 2024 Fall -
