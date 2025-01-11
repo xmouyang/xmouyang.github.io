@@ -15,6 +15,7 @@ nav_order: 4
 
 **Technical Program Committee**
 
+- ACM SenSys 2025
 - ACM MobiSys 2025
 - ACM SenSys 2024
 - IEEE ICDCS 2024
