@@ -40,7 +40,7 @@ My current research interest is **empowering mobile and IoT devices with AI** to
 
 - **Machine Learning for IoT Systems**: address real-world data and system challenges for advancing ML in mobile/IoT systems.
 - **Smart Health**: design and deploy real-world IoT systems for personalized health monitoring and intervention, e.g., [monitoring digital biomarkers of Alzheimer’s Disease](https://cuhk-alzheimers-ai.github.io/).
-- **Mobile Sensing**: enhance sensing quality with physics-strengthened AI techniques, e.g., exposing high-resolution texture information from ToF cameras.
+- **Mobile Sensing**: enhance sensing quality with physics-strengthened AI techniques.
 
 <!-- 
 **Key words of my recent research topics:** Multi-Modal Sensing and Learning, Federated Learning Systems, Large Language Models, Activity Recognition, Digital Biomarkers, ToF Depth Sensing Systems.
