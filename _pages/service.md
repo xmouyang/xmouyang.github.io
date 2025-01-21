@@ -10,6 +10,8 @@ nav_order: 4
 **Organizing Committee**
 
 - TPC Co-Chair of [FMSys Workshop 2025](https://fmsys-org.github.io/2025/index.html), [FMSys Workshop 2024](https://fmsys24.github.io/)
+- N2Women Co-Chair at [MobiSys 2025](https://www.sigmobile.org/mobisys/2025/organizing_committee/)
+- Rising Star Forum Co-Chair at [EWSN 2025](https://www.ewsn25.cs.kuleuven.be/)
 - Web Chair of ACM/IEEE IPSN 2024
 - Organizer of N2Women (Networking Networking Women) Meeting at ACM MobiSys 2023
 
