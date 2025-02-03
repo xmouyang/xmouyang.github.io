@@ -36,7 +36,7 @@ permalink: /teaching/comp6611c-2025-spring/
   - Final presentation (20%)  
   - Final report (20%)  
 - **Paper presentation**: 10%  
-- **Paper Reviews**: 10% (2 papers)  
+- **Paper Reviews**: 10% (5 papers)  
 
 **Reference Materials**:
 
@@ -76,7 +76,7 @@ permalink: /teaching/comp6611c-2025-spring/
 | Apr 22 (Tuesday)  | Physics-strengthened AI for Sensing Systems | Paper Presentation            |
 | Apr 24 (Thursday) | Applications                                |                               |
 | Apr 29 (Tuesday)  | Applications                                | Paper Presentation            |
-| May 1 (Thursday)  |                                             | No class (Public Holiday)     |
+| May 1 (Thursday)  | No class (Public Holiday)                   |                               |
 | May 3 (Saturday)  | Final Project Presentation                  | 15min pre + 5min QA           |
 | May 6 (Tuesday)   |                                             | Cancelled (Makeup on May 5)   |
-| May 8 (Thursday)  |                                             | Report Deadline               |
+| May 8 (Thursday)  | Report Deadline                             | Cancelled (Makeup on May 5)   |
