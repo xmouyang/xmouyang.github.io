@@ -78,7 +78,9 @@ Course structure includes:
 
 ### Course Syllabus
 
-| Date                 | Topics                                   | Notes                         |
+## Course Syllabus
+
+| Date                 | Topics                                   | Note                          |
 |----------------------|------------------------------------------|-------------------------------|
 | Feb 4 (Tuesday)      | Course Introduction and Overview         |                               |
 | Feb 6 (Thursday)     | Machine Learning Basics                  |                               |
@@ -86,20 +88,18 @@ Course structure includes:
 | Feb 13 (Thursday)    | Challenges in Embedded AI Systems        |                               |
 | Feb 18 (Tuesday)     | Unsupervised Learning                    |                               |
 | Feb 20 (Thursday)    | Unsupervised Learning                    | Paper Presentation            |
-| Feb 25 (Tuesday)     | Project Proposal Presentation            | 8min presentation + 2min Q&A  |
-| Feb 27 (Thursday)    | *Class Cancelled*                        | Makeup classes on Mar 8/9      |
+| Feb 25 (Tuesday)     | Project Proposal Presentation            | 8min pre + 2min QA            |
+| Feb 27 (Thursday)    |                                          | Cancelled (Makeup on Mar 8/9) |
 | Mar 4 (Tuesday)      | Multimodal Sensing and Learning          |                               |
 | Mar 6 (Thursday)     | Multimodal Sensing and Learning          | Paper Presentation            |
-| Mar 8 (Saturday)     | *Makeup Class*                           | 9:00am-10:20am (Feb 27 content)|
-| Mar 9 (Sunday)       | *Makeup Class*                           | 9:00am-10:20am (Feb 27 content)|
 | Mar 11 (Tuesday)     | Federated Learning                       |                               |
 | Mar 13 (Thursday)    | Federated Learning                       | Paper Presentation            |
 | Mar 18 (Tuesday)     | Efficient Deep Learning on the Edge      |                               |
 | Mar 20 (Thursday)    | Efficient Deep Learning on the Edge      | Paper Presentation            |
-| Mar 25 (Tuesday)     | Midterm Project Presentation             | 15min presentation + 5min Q&A |
-| Mar 27 (Thursday)    | Midterm Project Presentation             | 15min presentation + 5min Q&A |
-| Apr 1 (Tuesday)      | *No Class*                               | Midterm Break                 |
-| Apr 3 (Thursday)     | *No Class*                               | Midterm Break                 |
+| Mar 25 (Tuesday)     | Midterm Project Presentation             | 15min pre + 5min QA           |
+| Mar 27 (Thursday)    | Midterm Project Presentation             | 15min pre + 5min QA           |
+| Apr 1 (Tuesday)      |                                          | No class (Midterm Break)      |
+| Apr 3 (Thursday)     |                                          | No class (Midterm Break)      |
 | Apr 8 (Tuesday)      | LLMs and Foundation Models on the Edge   |                               |
 | Apr 10 (Thursday)    | LLMs and Foundation Models on the Edge   | Paper Presentation            |
 | Apr 15 (Tuesday)     | LLMs and Foundation Models on the Edge   | Paper Presentation            |
@@ -107,11 +107,10 @@ Course structure includes:
 | Apr 22 (Tuesday)     | Physics-strengthened AI for Sensing Systems | Paper Presentation         |
 | Apr 24 (Thursday)    | Applications                             |                               |
 | Apr 29 (Tuesday)     | Applications                             | Paper Presentation            |
-| May 1 (Thursday)     | *No Class*                               | Public Holiday                |
-| May 3 (Saturday)     | Final Project Presentation               | 15min presentation + 5min Q&A |
-| May 5 (Sunday)       | *Makeup Class*                           | Original May 6 content        |
-| May 6 (Tuesday)      | *Class Cancelled*                        | Rescheduled to May 5          |
-| May 8 (Thursday)     | Report Deadline                          |                               |
+| May 1 (Thursday)     |                                          | No class (Public Holiday)     |
+| May 3 (Saturday)     | Final Project Presentation               | 15min pre + 5min QA           |
+| May 6 (Tuesday)      |                                          | Cancelled (Makeup on May 5)   |
+| May 8 (Thursday)     |                                          | Report Deadline               |
 
 
 # Talks
