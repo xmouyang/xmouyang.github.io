@@ -8,8 +8,7 @@ nav_order: 2
 ---
 
 **Teaching**
-- 2025 Spring: Advanced Topics in Embedded AI Systems
-
+- 2025 Spring: [Advanced Topics in Embedded AI Systems]({{ '/teaching/comp6611c-2025/' | relative_url }})
 
 **Talks**
 - **Advancing Machine Learning in Internet of Things Systems for Smart Health.**\
@@ -18,4 +17,3 @@ Huawei, Sep 2024.
 Tsinghua University, AIR-AIoT Seminar, Hosted by <a href="https://yuanchun-li.github.io/">Prof. Yuanchun Li</a> and <a href="https://yunxinliu.github.io/">Prof. Yunxin Liu</a>, Aug 2024.
 - **Design and Deployment of AI-powered IoT Systems for Smart Health.**\
 Nanyang Technological University, Young PI Seminar Series, Hosted by <a href="https://personal.ntu.edu.sg/tanrui/">Prof. Rui Tan</a>, May 2024.
-
