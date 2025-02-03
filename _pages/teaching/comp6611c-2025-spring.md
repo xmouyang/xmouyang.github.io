@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /teaching/comp6611c-2025
+---
+
 # COMP6611C: Advanced Topics in Embedded AI Systems (Spring 2025)  
 
 **Computer Science and Engineering**, Hong Kong University of Science and Technology  
