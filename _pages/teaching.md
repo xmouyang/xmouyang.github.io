@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 **Teaching**
-- 2025 Spring: [Advanced Topics in Embedded AI Systems]({{ '/teaching/comp6611c-2025/' | relative_url }})
+- 2025 Spring: [Advanced Topics in Embedded AI Systems]({{ '/teaching/comp6611c-2025-spring/' | relative_url }})
 
 **Talks**
 - **Advancing Machine Learning in Internet of Things Systems for Smart Health.**\
