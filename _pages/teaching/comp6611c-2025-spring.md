@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/comp6611c-2025
+permalink: /teaching/comp6611c-2025-spring
 ---
 
 # COMP6611C: Advanced Topics in Embedded AI Systems (Spring 2025)  
