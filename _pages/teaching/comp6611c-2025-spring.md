@@ -7,6 +7,8 @@ permalink: /teaching/comp6611c-2025-spring/
 
 **Computer Science and Engineering**, Hong Kong University of Science and Technology  
 
+---
+
 **Instructor**: Xiaomin Ouyang  
 **Class Time**: Tuesday 4:30pm - 5:50pm, Thursday 4:30pm - 5:50pm (Room 2304, Lift 17/18)  
 **Email**: [xmouyang@cse.ust.hk](mailto:xmouyang@cse.ust.hk) *(For course-related queries, please use the subject starting from [COMP6611C])*  
