@@ -49,7 +49,7 @@ permalink: /teaching/comp6611c-2025-spring/
 
 **Course Syllabus**
 
-| Date              | Topics                                      | Note                          |
+<!-- | Date              | Topics                                      | Note                          |
 | ----------------- | ------------------------------------------- | ----------------------------- |
 | Feb 4 (Tuesday)   | Course Introduction and Overview            |                               |
 | Feb 6 (Thursday)  | Machine Learning Basics                     |                               |
@@ -79,4 +79,157 @@ permalink: /teaching/comp6611c-2025-spring/
 | May 1 (Thursday)  | No class (Public Holiday)                   |                               |
 | May 3 (Saturday)  | Final Project Presentation                  | 15min pre + 5min QA           |
 | May 6 (Tuesday)   |                                             | Cancelled (Makeup on May 5)   |
-| May 8 (Thursday)  | Report Deadline                             | Cancelled (Makeup on May 5)   |
+| May 8 (Thursday)  | Report Deadline                             | Cancelled (Makeup on May 5)   | -->
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Date</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>Feb 4 (Tuesday)</td>
+    <td>Course Introduction and Overview</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 6 (Thursday)</td>
+    <td>Machine Learning Basics</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 11 (Tuesday)</td>
+    <td>Challenges in Embedded AI Systems</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 13 (Thursday)</td>
+    <td>Challenges in Embedded AI Systems</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 18 (Tuesday)</td>
+    <td>Unsupervised Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 20 (Thursday)</td>
+    <td>Unsupervised Learning</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>Feb 25 (Tuesday)</td>
+    <td>Project Proposal Presentation</td>
+    <td>8min pre + 2min QA</td>
+  </tr>
+  <tr>
+    <td>Feb 27 (Thursday)</td>
+    <td></td>
+    <td>Cancelled (Makeup on Mar 8/9)</td>
+  </tr>
+  <tr>
+    <td>Mar 4 (Tuesday)</td>
+    <td>Multimodal Sensing and Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 6 (Thursday)</td>
+    <td>Multimodal Sensing and Learning</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>Mar 11 (Tuesday)</td>
+    <td>Federated Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 13 (Thursday)</td>
+    <td>Federated Learning</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>Mar 18 (Tuesday)</td>
+    <td>Efficient Deep Learning on the Edge</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 20 (Thursday)</td>
+    <td>Efficient Deep Learning on the Edge</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>Mar 25 (Tuesday)</td>
+    <td>Midterm Project Presentation</td>
+    <td>15min pre + 5min QA</td>
+  </tr>
+  <tr>
+    <td>Mar 27 (Thursday)</td>
+    <td>Midterm Project Presentation</td>
+    <td>15min pre + 5min QA</td>
+  </tr>
+  <tr>
+    <td>Apr 1 (Tuesday)</td>
+    <td></td>
+    <td>No class (Midterm Break)</td>
+  </tr>
+  <tr>
+    <td>Apr 3 (Thursday)</td>
+    <td></td>
+    <td>No class (Midterm Break)</td>
+  </tr>
+  <tr>
+    <td>Apr 8 (Tuesday)</td>
+    <td>LLMs and Foundation Models on the Edge</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 10 (Thursday)</td>
+    <td>LLMs and Foundation Models on the Edge</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>Apr 15 (Tuesday)</td>
+    <td>LLMs and Foundation Models on the Edge</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>Apr 17 (Thursday)</td>
+    <td>Physics-strengthened AI for Sensing Systems</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 22 (Tuesday)</td>
+    <td>Physics-strengthened AI for Sensing Systems</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>Apr 24 (Thursday)</td>
+    <td>Applications</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 29 (Tuesday)</td>
+    <td>Applications</td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>May 1 (Thursday)</td>
+    <td>No class (Public Holiday)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>May 3 (Saturday)</td>
+    <td>Final Project Presentation</td>
+    <td>15min pre + 5min QA</td>
+  </tr>
+  <tr>
+    <td>May 6 (Tuesday)</td>
+    <td></td>
+    <td>Cancelled (Makeup on May 5)</td>
+  </tr>
+  <tr>
+    <td>May 8 (Thursday)</td>
+    <td>Report Deadline</td>
+    <td>Cancelled (Makeup on May 5)</td>
+  </tr>
+</table>
