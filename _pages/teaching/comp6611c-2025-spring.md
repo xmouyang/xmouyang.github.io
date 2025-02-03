@@ -46,7 +46,7 @@ permalink: /teaching/comp6611c-2025-spring/
 ---
 
 
-## Course Syllabus
+**Course Syllabus**
 
 | Date              | Topics                                      | Note                          |
 | ----------------- | ------------------------------------------- | ----------------------------- |
