@@ -11,12 +11,11 @@ permalink: /teaching/comp6611c-2025-spring/
 **Class Time**: Tuesday 4:30pm - 5:50pm, Thursday 4:30pm - 5:50pm (Room 2304, Lift 17/18)  
 **Email**: [xmouyang@cse.ust.hk](mailto:xmouyang@cse.ust.hk) *(For course-related queries, please use the subject starting from [COMP6611C])*  
 **Office Hour**: Friday 4:30pm - 5:30pm, Room 3562, Lift 27/28  
-
----
-
 **Teaching Assistants**: Mr. Runxi Huang ([runxi.huang@connect.ust.hk](mailto:runxi.huang@connect.ust.hk)) and Mr. Wenjie Du ([wduaj@cse.ust.hk](mailto:wduaj@cse.ust.hk))  
 
 <span style="color:red">For enrolled students: Recorded videos for absent classes can be requested by emailing TAs directly.</span>
+
+---
 
 **Course Description**: This course will enable students to have an in-depth understanding of embedded AI algorithms and their implementation in real systems and applications. The major topics include 1) basics on machine learning; 2) data and system challenges in embedded AI 3) AI techniques and their implementation on cutting-edge platforms 4) real-world applications, such as smart health and smart buildings. The course structure will primarily consist of instructor presentations, student presentations, paper summaries, and a course project. Students will work on an individual or team project to build an end-to-end embedded AI system. Students will also read and discuss the latest publications in the areas of embedded AI, Internet of Things, mobile systems, and ubiquitous computing.
 
