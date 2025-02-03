@@ -83,7 +83,6 @@ Course structure includes:
 
 ---
 
-## Course Syllabus
 
 # Course Syllabus
 
