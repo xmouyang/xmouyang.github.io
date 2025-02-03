@@ -3,62 +3,30 @@ layout: page
 permalink: /teaching/comp6611c-2025-spring/
 ---
 
-# COMP6611C: Advanced Topics in Embedded AI Systems (Spring 2025)  
+### **COMP6611C**: Advanced Topics in Embedded AI Systems (Spring 2025)  
 
 **Computer Science and Engineering**, Hong Kong University of Science and Technology  
-
----
-
-## Lecture Details
 
 **Instructor**: Xiaomin Ouyang  
 **Class Time**: Tuesday 4:30pm - 5:50pm, Thursday 4:30pm - 5:50pm (Room 2304, Lift 17/18)  
 **Email**: [xmouyang@cse.ust.hk](mailto:xmouyang@cse.ust.hk) *(For course-related queries, please use the subject starting from [COMP6611C])*  
 **Office Hour**: Friday 4:30pm - 5:30pm, Room 3562, Lift 27/28  
 
-**Teaching Assistants**:  
+---
 
-- Mr. Runxi Huang ([runxi.huang@connect.ust.hk](mailto:runxi.huang@connect.ust.hk))  
-- Mr. Wenjie Du ([wduaj@cse.ust.hk](mailto:wduaj@cse.ust.hk))  
+**Teaching Assistants**: Mr. Runxi Huang ([runxi.huang@connect.ust.hk](mailto:runxi.huang@connect.ust.hk)) and Mr. Wenjie Du ([wduaj@cse.ust.hk](mailto:wduaj@cse.ust.hk))  
 
-> For enrolled students: Recorded videos for absent classes can be requested by emailing TAs directly.
+<span style="color:red">For enrolled students: Recorded videos for absent classes can be requested by emailing TAs directly.</span>
+
+**Course Description**: This course will enable students to have an in-depth understanding of embedded AI algorithms and their implementation in real systems and applications. The major topics include 1) basics on machine learning; 2) data and system challenges in embedded AI 3) AI techniques and their implementation on cutting-edge platforms 4) real-world applications, such as smart health and smart buildings. The course structure will primarily consist of instructor presentations, student presentations, paper summaries, and a course project. Students will work on an individual or team project to build an end-to-end embedded AI system. Students will also read and discuss the latest publications in the areas of embedded AI, Internet of Things, mobile systems, and ubiquitous computing.
+
+**Course Objectives**: After completion of this course, the students will have in-depth understanding of challenges in embedded AI systems, hands-on experience in implementing state-of-the-art embedded AI algorithms in real-world systems or applications, and critical thinking ability to tackle embedded AI problems.
+
+**Pre-requisite**: Basic understanding of machine learning is required. Familiarity or experience with the fundamentals of embedded or mobile systems are preferred.
 
 ---
 
-## Course Description
-
-This course enables students to gain an in-depth understanding of embedded AI algorithms and their implementation in real systems. Major topics include:  
-
-1. Basics of machine learning  
-2. Data and system challenges in embedded AI  
-3. AI techniques on cutting-edge platforms  
-4. Real-world applications (smart health, smart buildings, etc.)  
-
-Course structure includes:  
-
-- Instructor/student presentations  
-- Paper summaries  
-- Course project (individual/team)  
-- Discussions of latest publications in embedded AI, IoT, mobile systems, and ubiquitous computing  
-
----
-
-## Course Objectives
-
-- Understand challenges in embedded AI systems  
-- Gain hands-on experience implementing state-of-the-art algorithms  
-- Develop critical thinking for solving embedded AI problems  
-
----
-
-## Pre-requisite
-
-- Basic understanding of machine learning  
-- Familiarity with embedded/mobile systems fundamentals (preferred)  
-
----
-
-## Grading Scheme
+**Grading Scheme**:
 
 - **Class attendance & discussion**: 20%  
 - **Project**: 60%  
@@ -69,17 +37,11 @@ Course structure includes:
 - **Paper presentation**: 10%  
 - **Paper Reviews**: 10% (2 papers)  
 
----
+**Reference Materials**:
 
-## Reference Materials
+- **Conferences**: Proceedings of MobiCom/MobiSys/SenSys/UbiComp/IPSN/IoTDI  
 
-### Conferences:
-
-- Proceedings of MobiCom/MobiSys/SenSys/UbiComp/IPSN/IoTDI  
-
-### Book:
-
-- Siam, S.I., et al. (2024). *Artificial Intelligence of Things: A Survey*. ACM Transactions on Sensor Networks.
+- **Book**: Siam, S.I., et al. (2024). *Artificial Intelligence of Things: A Survey*. ACM Transactions on Sensor Networks.
 
 ---
 
