@@ -13,9 +13,8 @@ permalink: /teaching/comp6611c-2025-spring/
 **Class Time**: Tuesday 4:30pm - 5:50pm, Thursday 4:30pm - 5:50pm (Room 2304, Lift 17/18)  
 **Email**: [xmouyang@cse.ust.hk](mailto:xmouyang@cse.ust.hk) *(For course-related queries, please use the subject starting from [COMP6611C])*  
 **Office Hour**: Friday 4:30pm - 5:30pm, Room 3562, Lift 27/28  
-**Teaching Assistants**: Mr. Runxi Huang ([runxi.huang@connect.ust.hk](mailto:runxi.huang@connect.ust.hk)) and Mr. Wenjie Du ([wduaj@cse.ust.hk](mailto:wduaj@cse.ust.hk))  
+**Teaching Assistants**: Mr. Wenjie Du ([wduaj@cse.ust.hk](mailto:wduaj@cse.ust.hk)) (For enrolled students: Recorded videos for absent classes can be requested by emailing the TA directly.)
 
-<span style="color:red">For enrolled students: Recorded videos for absent classes can be requested by emailing TAs directly.</span>
 
 ---
 
