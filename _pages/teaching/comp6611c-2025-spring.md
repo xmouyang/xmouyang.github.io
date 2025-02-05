@@ -14,7 +14,7 @@ permalink: /teaching/comp6611c-2025-spring/
 **Email**: [xmouyang@cse.ust.hk](mailto:xmouyang@cse.ust.hk) *(For course-related queries, please use the subject starting from [COMP6611C])*  
 **Office Hour**: Friday 4:30pm - 5:30pm, Room 3562, Lift 27/28  
 **Teaching Assistants**: Mr. Wenjie Du ([wduaj@cse.ust.hk](mailto:wduaj@cse.ust.hk)) (For enrolled students: Recorded videos for absent classes can be requested by emailing the TA directly.)
-
+**Communication and Announcement**: Canvas is the main platform for communication and Announcement. For students auditing without official enrollment, <b>please email me your name, student ID, and email address</b> to access the course resources not available here and to stay updated with any course changes.
 
 ---
 
