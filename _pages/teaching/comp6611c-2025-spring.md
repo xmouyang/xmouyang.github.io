@@ -89,7 +89,7 @@ permalink: /teaching/comp6611c-2025-spring/
   </tr>
   <tr>
     <td>Feb 4 (Tuesday)</td>
-    <td>Course Introduction and Overview</td>
+    <td><a href="../../assets/teaching/6611C-lecture0-overview.pdf">Course Introduction and Overview</a></td>
     <td></td>
   </tr>
   <tr>
