@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6e3d5cb-b757-456c-9aa1-8ae3d67d4b1d)---
+---
 layout: page
 permalink: /teaching/comp6611c-2025-spring/
 ---
@@ -253,12 +253,12 @@ permalink: /teaching/comp6611c-2025-spring/
     <td>May 6 (Tuesday)</td>
     <td></td>
     <td></td>
-    <td>Cancelled (Makeup on May 5)</td>
+    <td>Cancelled (Makeup on May 3)</td>
   </tr>
   <tr>
     <td>May 8 (Thursday)</td>
     <td>Report Deadline</td>
     <td></td>
-    <td>Cancelled (Makeup on May 5)</td>
+    <td>Cancelled (Makeup on May 3)</td>
   </tr>
 </table>
