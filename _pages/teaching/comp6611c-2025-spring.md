@@ -77,8 +77,8 @@ permalink: /teaching/comp6611c-2025-spring/
 | Apr 29 (Tuesday)  | Applications                                |           | Paper Presentation            |
 | May 1 (Thursday)  | No class (Public Holiday)                   |           |                               |
 | May 3 (Saturday)  | Final Project Presentation                  |           | 15min pre + 5min QA           |
-| May 6 (Tuesday)   |                                             |           | Cancelled (Makeup on May 5)    |
-| May 8 (Thursday)  | Report Deadline                             |           | Cancelled (Makeup on May 5)    | -->
+| May 6 (Tuesday)   |                                             |           | Cancelled (Makeup on May 3)    |
+| May 8 (Thursday)  | Report Deadline                             |           | Cancelled (Makeup on May 3)    | -->
 
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
