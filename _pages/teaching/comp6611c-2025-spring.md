@@ -7,6 +7,7 @@ permalink: /teaching/comp6611c-2025-spring/
 
 **Computer Science and Engineering**, Hong Kong University of Science and Technology  
 
+**How to run machine learning models on mobile or embedded devices? What are the unique challenges in embedded AI systems? **
 ---
 
 **Instructor**: Xiaomin Ouyang  
