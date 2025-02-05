@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c6e3d5cb-b757-456c-9aa1-8ae3d67d4b1d)---
 layout: page
 permalink: /teaching/comp6611c-2025-spring/
 ---
@@ -39,9 +39,9 @@ permalink: /teaching/comp6611c-2025-spring/
 
 **Reference Materials**:
 
-- **Conferences**: Proceedings of MobiCom/MobiSys/SenSys/UbiComp/IPSN/IoTDI  
+- **Conferences**: Proceedings of MobiCom/MobiSys/SenSys/UbiComp/IPSN/IoTDI/NeurIPS/ICML/ICLR/CVPR/ACL
 
-- **Book**: Siam, S.I., et al. (2024). *Artificial Intelligence of Things: A Survey*. ACM Transactions on Sensor Networks.
+- **Book**: Siam, S.I., et al. (2024). *Artificial Intelligence of Things: A Survey*. ACM Transactions on Sensor Networks. [website](https://github.com/AIoT-MLSys-Lab/AIoT-Survey)
 
 ---
 
