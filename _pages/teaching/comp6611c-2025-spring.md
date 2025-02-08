@@ -99,7 +99,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Feb 6 (Thursday)</td>
     <td>Machine Learning Basics</td>
-    <td></td>
+    <td><a href="../../assets/teaching/6611C-lecture1-ml-basics.pdf">Lecture 1</a></td>
     <td></td>
   </tr>
   <tr>
