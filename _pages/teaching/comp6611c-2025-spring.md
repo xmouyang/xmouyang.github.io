@@ -93,19 +93,19 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Feb 4 (Tuesday)</td>
     <td>Course Introduction and Overview</td>
-    <td><a href="../../assets/teaching/6611C-lecture0-overview.pdf">Lecture 0</a></td>
+    <td><a href="https://gohkust-my.sharepoint.com/:b:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture0-overview.pdf?csf=1&web=1&e=bdKC6X">Lecture 0</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 6 (Thursday)</td>
     <td>Machine Learning Basics</td>
-    <td><a href="../../assets/teaching/6611C-lecture1-ml-basics.pdf">Lecture 1</a></td>
+    <td><a href="https://gohkust-my.sharepoint.com/:b:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture1-ml-basics.pdf?csf=1&web=1&e=BTfeFv">Lecture 1</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 11 (Tuesday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td><a href="../../assets/teaching/6611C-lecture2-challenges1.pdf">Lecture 2</a></td>
+    <td><a href="https://gohkust-my.sharepoint.com/:p:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture2-challenges1.pptx?d=w77364e9a6e3942eca6f9d3b9952bdb79&csf=1&web=1&e=53qvff">Lecture 2</a></td>
     <td></td>
   </tr>
   <tr>
