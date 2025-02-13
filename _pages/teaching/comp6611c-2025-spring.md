@@ -111,7 +111,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Feb 13 (Thursday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td></td>
+    <td><a href="https://gohkust-my.sharepoint.com/:b:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture2-challenges2.pdf?csf=1&web=1&e=EK4bLe">Lecture 3</a></td>
     <td></td>
   </tr>
   <tr>
