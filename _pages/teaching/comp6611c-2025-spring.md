@@ -111,13 +111,13 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Feb 13 (Thursday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EV-YRXuW8t1EhExBVPwlFhsBI_PAYpri77_VMmk34AgDVw?e=4y7bE7">Lecture 3</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EV-YRXuW8t1EhExBVPwlFhsBI_PAYpri77_VMmk34AgDVw?e=4y7bE7">Lecture 2</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 18 (Tuesday)</td>
     <td>Unsupervised Learning</td>
-    <td></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXf1lf13p3JLr_nqE-ibkvsBMAVRquCalDlYC-Wxjq1-TA?e=oj5CtF">Lecture 3</a></td>
     <td></td>
   </tr>
   <tr>
