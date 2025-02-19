@@ -93,25 +93,25 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Feb 4 (Tuesday)</td>
     <td>Course Introduction and Overview</td>
-    <td><a href="https://gohkust-my.sharepoint.com/:b:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture0-overview.pdf?csf=1&web=1&e=bdKC6X">Lecture 0</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXGmkH_O7U9KiqRm-EOl1jsBAoCRMgO9zQB9Fil0TlJ3_A?e=HXbjUF">Lecture 0</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 6 (Thursday)</td>
     <td>Machine Learning Basics</td>
-    <td><a href="https://gohkust-my.sharepoint.com/:b:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture1-ml-basics.pdf?csf=1&web=1&e=BTfeFv">Lecture 1</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/ERgCd2Rp_qNHtDCE6XxhotABLyEb85MVBq6RT4dwk_vfxA?e=FV3BCb">Lecture 1</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 11 (Tuesday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td><a href="https://gohkust-my.sharepoint.com/:p:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture2-challenges1.pptx?d=w77364e9a6e3942eca6f9d3b9952bdb79&csf=1&web=1&e=53qvff">Lecture 2</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:p:/g/personal/wduaj_connect_ust_hk/EYQZNstc11lAixmvPqcoBf8Bbx3Ure6pyqwskjknbLW92A?e=KUP2fM">Lecture 2</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 13 (Thursday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td><a href="https://gohkust-my.sharepoint.com/:b:/r/personal/xmouyang_ust_hk/Documents/teaching/COMP6611C-25Spring/slides/6611C-lecture2-challenges2.pdf?csf=1&web=1&e=EK4bLe">Lecture 3</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EV-YRXuW8t1EhExBVPwlFhsBI_PAYpri77_VMmk34AgDVw?e=4y7bE7">Lecture 3</a></td>
     <td></td>
   </tr>
   <tr>
