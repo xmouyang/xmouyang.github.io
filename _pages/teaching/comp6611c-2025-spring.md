@@ -149,7 +149,7 @@ permalink: /teaching/comp6611c-2025-spring/
     <td>Mar 5 (Wednesday)</td>
     <td>Project Proposal Feedback</td>
     <td></td>
-    <td></td>
+    <td>Presentation+Feedback</td>
   </tr>
   
   <tr>
