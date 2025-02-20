@@ -69,15 +69,15 @@ permalink: /teaching/comp6611c-2025-spring/
 | Mar 20 (Thursday) | Efficient Deep Learning on the Edge         |           | Paper Presentation            |
 | Mar 25 (Tuesday)  | Midterm Project Presentation                |           | 15min pre + 5min QA           |
 | Mar 27 (Thursday) | Midterm Project Presentation                |           | 15min pre + 5min QA           |
-| Apr 1 (Tuesday)   |                                             |           | No class (Midterm Break)      |
-| Apr 3 (Thursday)  |                                             |           | No class (Midterm Break)      |
-| Apr 8 (Tuesday)   | LLMs and Foundation Models on the Edge      |           |                               |
-| Apr 10 (Thursday) | LLMs and Foundation Models on the Edge      |           | Paper Presentation            |
-| Apr 15 (Tuesday)  | LLMs and Foundation Models on the Edge      |           | Paper Presentation            |
-| Apr 17 (Thursday) | Physics-strengthened AI for Sensing Systems   |           |                               |
-| Apr 22 (Tuesday)  | Physics-strengthened AI for Sensing Systems   |           | Paper Presentation            |
-| Apr 24 (Thursday) | Applications                                |           |                               |
-| Apr 29 (Tuesday)  | Applications                                |           | Paper Presentation            |
+| April 1 (Tuesday)   |                                             |           | No class (Midterm Break)      |
+| April 3 (Thursday)  |                                             |           | No class (Midterm Break)      |
+| April 8 (Tuesday)   | LLMs and Foundation Models on the Edge      |           |                               |
+| April 10 (Thursday) | LLMs and Foundation Models on the Edge      |           | Paper Presentation            |
+| April 15 (Tuesday)  | LLMs and Foundation Models on the Edge      |           | Paper Presentation            |
+| April 17 (Thursday) | Physics-strengthened AI for Sensing Systems   |           |                               |
+| April 22 (Tuesday)  | Physics-strengthened AI for Sensing Systems   |           | Paper Presentation            |
+| April 24 (Thursday) | Applications                                |           |                               |
+| April 29 (Tuesday)  | Applications                                |           | Paper Presentation            |
 | May 1 (Thursday)  | No class (Public Holiday)                   |           |                               |
 | May 3 (Saturday)  | Final Project Presentation                  |           | 15min pre + 5min QA           |
 | May 6 (Tuesday)   |                                             |           | Cancelled (Makeup on May 3)    |
@@ -111,13 +111,13 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Feb 13 (Thursday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EV-YRXuW8t1EhExBVPwlFhsBI_PAYpri77_VMmk34AgDVw?e=4y7bE7">Lecture 2</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EV-YRXuW8t1EhExBVPwlFhsBI_PAYpri77_VMmk34AgDVw?e=4y7bE7">Lecture 3</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 18 (Tuesday)</td>
     <td>Unsupervised Learning</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXf1lf13p3JLr_nqE-ibkvsBMAVRquCalDlYC-Wxjq1-TA?e=oj5CtF">Lecture 3</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXf1lf13p3JLr_nqE-ibkvsBMAVRquCalDlYC-Wxjq1-TA?e=oj5CtF">Lecture 4</a></td>
     <td></td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ permalink: /teaching/comp6611c-2025-spring/
     <td>Feb 27 (Thursday)</td>
     <td></td>
     <td></td>
-    <td>Cancelled (Makeup on Mar 8/9)</td>
+    <td>Cancelled (Makeup on Mar 5)</td>
   </tr>
   <tr>
     <td>Mar 4 (Tuesday)</td>
@@ -144,6 +144,14 @@ permalink: /teaching/comp6611c-2025-spring/
     <td></td>
     <td></td>
   </tr>
+  
+   <tr>
+    <td>Mar 5 (Wednesday)</td>
+    <td>Project Proposal Feedback</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
   <tr>
     <td>Mar 6 (Thursday)</td>
     <td>Multimodal Sensing and Learning</td>
@@ -187,55 +195,55 @@ permalink: /teaching/comp6611c-2025-spring/
     <td>15min pre + 5min QA</td>
   </tr>
   <tr>
-    <td>Apr 1 (Tuesday)</td>
+    <td>April 1 (Tuesday)</td>
     <td></td>
     <td></td>
     <td>No class (Midterm Break)</td>
   </tr>
   <tr>
-    <td>Apr 3 (Thursday)</td>
+    <td>April 3 (Thursday)</td>
     <td></td>
     <td></td>
     <td>No class (Midterm Break)</td>
   </tr>
   <tr>
-    <td>Apr 8 (Tuesday)</td>
+    <td>April 8 (Tuesday)</td>
     <td>LLMs and Foundation Models on the Edge</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Apr 10 (Thursday)</td>
-    <td>LLMs and Foundation Models on the Edge</td>
-    <td></td>
-    <td>Paper Presentation</td>
-  </tr>
-  <tr>
-    <td>Apr 15 (Tuesday)</td>
+    <td>April 10 (Thursday)</td>
     <td>LLMs and Foundation Models on the Edge</td>
     <td></td>
     <td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>Apr 17 (Thursday)</td>
+    <td>April 15 (Tuesday)</td>
+    <td>LLMs and Foundation Models on the Edge</td>
+    <td></td>
+    <td>Paper Presentation</td>
+  </tr>
+  <tr>
+    <td>April 17 (Thursday)</td>
     <td>Physics-strengthened AI for Sensing Systems</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Apr 22 (Tuesday)</td>
+    <td>April 22 (Tuesday)</td>
     <td>Physics-strengthened AI for Sensing Systems</td>
     <td></td>
     <td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>Apr 24 (Thursday)</td>
+    <td>April 24 (Thursday)</td>
     <td>Applications</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Apr 29 (Tuesday)</td>
+    <td>April 29 (Tuesday)</td>
     <td>Applications</td>
     <td></td>
     <td>Paper Presentation</td>
