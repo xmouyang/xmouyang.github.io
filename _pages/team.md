@@ -15,11 +15,15 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
     - Runxi Huang (Ph.D. student, MS NTU, BS BeiHang U.), 2024 Fall -
     - Wenjie Du (M.Phil. student, BS Sichuan U.), 2024 Fall -
     - Yizhen Wang (Ph.D. student, BS Zhejiang U.), 2025 Fall -
+    - Liyu Zhang, (Ph.D. student, BS HKUST), 2025 Fall -
  
-- **Visiting Students**
+- **Undergraduate Students**
     - Hengle Jiang, Undergraduate Student from SUSTech, 2024 Fall -
     - Yejia Liu, Undergraduate Student from Shanghai Jiaotong U., 2024 Fall -
-    - Liyu Zhang, Undergraduate Student from HKUST CSE, 2025 Spring -
+    - Larry, Kwun Ho Liu, Undergraduate Student from HKUST, 2025 Spring -
+    - Yuchen Wang, Undergraduate Student from HKUST, 2025 Spring -
+    - Lanxuan Hong, Undergraduate Student from HKUST, 2025 Spring -
+
 
 - **Co-advising Students**
     - Yolanda Lau, Ph.D. Student at UCL (serve as the secondary supervisor), 2024 Spring -
