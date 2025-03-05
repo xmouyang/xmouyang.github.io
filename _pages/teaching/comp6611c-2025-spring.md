@@ -141,7 +141,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Mar 4 (Tuesday)</td>
     <td>Multimodal Sensing and Learning</td>
-    <td></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXqABV6pI2hAuthMoEH_N2sB5x4KYWX3YbLA0BnKPtO_EQ?e=pG0wtZ">Lecture 5</a></td>
     <td></td>
   </tr>
   
