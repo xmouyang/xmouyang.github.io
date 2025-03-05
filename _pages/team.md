@@ -13,7 +13,6 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
 
 - **Postgraduate Students**
     - Runxi Huang (Ph.D. student, MS NTU, BS BeiHang U.), 2024 Fall -
-    - Wenjie Du (M.Phil. student, BS Sichuan U.), 2024 Fall -
     - Yizhen Wang (Ph.D. student, BS Zhejiang U.), 2025 Fall -
     - Liyu Zhang, (Ph.D. student, BS HKUST), 2025 Fall -
  
