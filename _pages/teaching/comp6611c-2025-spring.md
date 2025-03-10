@@ -15,7 +15,7 @@ permalink: /teaching/comp6611c-2025-spring/
 **Class Time**: Tuesday 4:30pm - 5:50pm, Thursday 4:30pm - 5:50pm (Room 2304, Lift 17/18)  
 **Email**: [xmouyang@cse.ust.hk](mailto:xmouyang@cse.ust.hk) *(For course-related queries, please use the subject starting from [COMP6611C])*  
 **Office Hour**: Friday 4:30pm - 5:30pm, Room 3562, Lift 27/28  
-**Teaching Assistants**: Miss. Liyu Zhang ([lzhangcx@connect.ust.hk](mailto:lzhangcx@connect.ust.hk)) (For enrolled students: Recorded videos for absent classes can be requested by emailing the TA directly.)
+**Teaching Assistants**: Miss Liyu Zhang ([lzhangcx@connect.ust.hk](mailto:lzhangcx@connect.ust.hk)) (For enrolled students: Recorded videos for absent classes can be requested by emailing the TA directly.)
 
 **Communication and Announcement**: Canvas is the main platform for communication and announcement. For students auditing without official enrollment, <b>please email me your name, student ID, and email address</b> to access the course resources not available here and to stay updated with any course changes.
 
