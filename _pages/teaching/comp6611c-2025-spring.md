@@ -161,7 +161,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Mar 11 (Tuesday)</td>
     <td>Federated Learning</td>
-    <td></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/EfVj0poPVERHu4GrqYtbc_8BBtknf9F6kzNtOQLXGWKPSQ?e=4vjrZa">Lecture 6</a></td>
     <td></td>
   </tr>
   <tr>
