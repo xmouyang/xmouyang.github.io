@@ -16,6 +16,7 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
     - Yizhen Wang (Ph.D. student, BS Zhejiang U.), 2025 Fall -
     - Liyu Zhang, (Ph.D. student, BS HKUST), 2025 Fall -
     - Yejia Liu, (MPhil. student, BS Shanghai Jiaotong U.), 2025 Fall -
+    - Haoxian Liu, (MPhil. student, BS SUSTech), 2025 Fall -
  
 - **Undergraduate Students**
     - Hengle Jiang, Undergraduate Student from SUSTech, 2024 Fall -
