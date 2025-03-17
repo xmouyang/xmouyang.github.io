@@ -4,7 +4,7 @@ permalink: /opening/
 title: Openings
 ---
 
-Thank you for your interest in the [Mobile, Intelligent, and Networked System (MINSys) Group @ HKUST CSE](https://xmouyang.github.io/Team/), lead by Dr. [Xiaomin Ouyang](https://xmouyang.github.io/). I am always actively looking for strong and self-motivated students! Currently, We have **multiple Ph.D./ M.Phil. openings** for strong candidates starting in **Fall 2025** and **one postdoc opening** with competitive salaries. I encourage you to reach out early to ensure consideration. I also have several research internship positions opening starting anytime (typically for at least six months). Please drop me an email if you are interested.
+Thank you for your interest in the [Mobile, Intelligent, and Networked System (MINSys) Group @ HKUST CSE](https://xmouyang.github.io/Team/), lead by Dr. [Xiaomin Ouyang](https://xmouyang.github.io/). I am always actively looking for strong and self-motivated students! Currently, We have **multiple Ph.D./ M.Phil. openings** for strong candidates starting in **Spring/Fall 2026** and **one postdoc opening** with competitive salaries. I encourage you to reach out early to ensure consideration. I also have several research internship positions opening starting anytime (typically for at least six months). Please drop me an email if you are interested.
 
 
 
