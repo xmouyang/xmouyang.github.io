@@ -25,7 +25,7 @@ nav_order: 4
 - ACM MobiCom 2024 Artifact Evaluation
 - ACM MobiSys 2024 Artifact Evaluation
 - ACM MobiSys 2024 Rising Star Forum
-- ACM Ubicom/ISWC 2024 Notes and Briefs
+- ACM Ubicom/ISWC Notes and Briefs 2025, 2024
 - ACM/IEEE IoTDI Posters/Demos Program, 2023 and 2024
 - ACM SenSys 2022 Shadow Program
 
