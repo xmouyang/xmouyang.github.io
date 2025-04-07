@@ -13,7 +13,7 @@ nav_order: 2
 
 **Talks**
 -  **Building AI-powered Mobile Health Systems: Daily Monitoring and Personalized Intervention**\
-HKUST Center for Aging Science, Mar. 2025
+HKUST Center for Aging Science, Mar. 2025\
 Peking University Shenzhen Hospital, Mar. 2025
 -  **Advancing Ambient Intelligence with AIoT Systems for Smart Health**\
 Huawei, Xi'An, Nov. 2024.\
