@@ -173,7 +173,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Mar 18 (Tuesday)</td>
     <td>Efficient Deep Learning on the Edge</td>
-    <td><a href="https://gohkust-my.sharepoint.com/personal/xmouyang_ust_hk/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fxmouyang%5Fust%5Fhk%2FDocuments%2Fteaching%2FCOMP6611C%2D25Spring%2Fslides%2F6611C%2Dlecture7%2DDL%2Don%2Dedge%2Epdf&parent=%2Fpersonal%2Fxmouyang%5Fust%5Fhk%2FDocuments%2Fteaching%2FCOMP6611C%2D25Spring%2Fslides">Lecture 7</a></td>    
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/ET5rl-g1IfdNiCIEWysnR0sBGBp18xvj07mODIs8uZWMkA?e=znzZzg">Lecture 7</a></td>    
     <td></td>
   </tr>
   <tr>
@@ -209,7 +209,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>April 8 (Tuesday)</td>
     <td>LLMs and Foundation Models on the Edge</td>
-    <td></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/EQFK0ghfSC5CrXYyFx_f49ABq1mGc2Skmq9IszGVFkL3nA?e=3OHi1X">Lecture 8</a></td>
     <td></td>
   </tr>
   <tr>
