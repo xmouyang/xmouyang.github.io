@@ -227,7 +227,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>April 17 (Thursday)</td>
     <td>Physics-strengthened AI for Sensing Systems</td>
-    <td></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/ESEc8l9OLxxJlWi5Do5vnIEB71isR2Q0qex2x-jINgJ4CA?e=UD5wbc">Lecture 9</a></td>
     <td></td>
   </tr>
   <tr>
