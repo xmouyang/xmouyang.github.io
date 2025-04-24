@@ -239,7 +239,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>April 24 (Thursday)</td>
     <td>Applications</td>
-    <td></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/EQbmfiQza-tBo-JllPT94wYBwiU9XAwMQ-4C3dT6Y6-y5g?e=VI8ni3">Lecture 10</a></td>
     <td></td>
   </tr>
   <tr>
