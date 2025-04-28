@@ -8,7 +8,7 @@ Thank you for your interest in the [Mobile, Intelligent, and Networked System (M
 
 
 
-**The successful candidate of PhD will be provided with a full scholarship** (220,320 HKD annually). Excellent candidates can be nominated to apply [Hong Kong PhD Fellowship](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) (331,200 HKD annually with extra allowance) starting in Fall 2025. For more details, please refer to the [admission page of HKUST CSE](https://cse.hkust.edu.hk/pg/admissions/).
+**The successful candidate of PhD will be provided with a full scholarship** (220,320 HKD annually). Excellent candidates can be nominated to apply [Hong Kong PhD Fellowship](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) (331,200 HKD annually with extra allowance, apply before Dec 1). For more details, please refer to the [admission page of HKUST CSE](https://cse.hkust.edu.hk/pg/admissions/).
 
 **Major research topics**:
 - **Embedded AI**: address real-world data and system challenges for advancing AI in mobile/IoT systems.
