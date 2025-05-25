@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+**Distinguished TPC member**\
+ACM SenSys, 2025
+
+**Best Paper Award**\
+[FMSys workshop](https://fmsys-org.github.io/2025/index.html), 2025
 
 **[mHealth Scholars](https://mhti.md2k.org/index.php/scholars/2024-scholars)**\
 NIH mHealth Training Institute (mHTI), 2024
@@ -28,9 +33,6 @@ ACM MobiSys, 2023
 
 **Reaching Out Award**\
 The Chinese University of Hong Kong, 2023
-
-**Student Travel Grant**\
-ACM MobiSys 2023 and ACM MobiCom 2022
 
 **National Scholarship** (highest honor in China)\
 Ministry of Education of China, 2018 & 2017 & 2016
