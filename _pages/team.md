@@ -44,7 +44,7 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
   </div>
   <div class="student-card">
     <img src="../assets/img/Yejia_photo.jpg" alt="Yejia Liu" />
-    <h4><a href="https://yejialiu.github.io/">Yejia Liu</a></h4>
+    <h4><a href="https://yejialiu.github.io//YejiaLiupages.github.io/">Yejia Liu</a></h4>
     <p>MPhil. student, BS Shanghai Jiaotong U.</p>
     <p><em>(2025 Fall – )</em></p>
   </div>
