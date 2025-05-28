@@ -15,10 +15,6 @@ I am actively looking for highly motivated students to join my group (<strong>Ea
 I lead the <strong>M</strong>obile, <strong>I</strong>ntelligent, and <strong>N</strong>etworked <strong>Sys</strong>tem (<strong>MINSys</strong>) Group @ HKUST CSE. Here is our <a href="https://github.com/HKUST-MINSys-Lab">Group GitHub page</a>. I am fortunate to work with the following members:
 
   </div>
-  <div class="leader-photo">
-    <img src="../assets/img/Xiaomin_OUYANG_photo.jpeg" alt="Prof. Xiaomin Ouyang" />
-    <h4>Dr. Xiaomin Ouyang</h4>
-  </div>
 </div>
 
 - <strong>Postgraduate Students</strong>
