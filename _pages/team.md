@@ -10,9 +10,9 @@ nav_order: 5
 <div class="leader">
   <div class="leader-text">
   
-I am actively looking for highly motivated students to join my group (**Earliest round for Ph.D./M.Phil: 2026 Spring/Fall**). See [openings](https://xmouyang.github.io/opening/) for more details. Please <a href="mailto:xmouyang@cse.ust.hk">email me</a> your CV and transcript if you are interested in.
+I am actively looking for highly motivated students to join my group (<strong>Earliest round for Ph.D./M.Phil: 2026 Spring/Fall</strong>). See <a href="https://xmouyang.github.io/opening/">openings</a> for more details. Please <a href="mailto:xmouyang@cse.ust.hk">email me</a> your CV and transcript if you are interested in.
 
-I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**) Group @ HKUST CSE. Here is our [Group GitHub page](https://github.com/HKUST-MINSys-Lab). I am fortunate to work with the following members:
+I lead the <strong>M</strong>obile, <strong>I</strong>ntelligent, and <strong>N</strong>etworked <strong>Sys</strong>tem (<strong>MINSys</strong>) Group @ HKUST CSE. Here is our <a href="https://github.com/HKUST-MINSys-Lab">Group GitHub page</a>. I am fortunate to work with the following members:
 
   </div>
   <div class="leader-photo">
@@ -21,7 +21,7 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
   </div>
 </div>
 
-- **Postgraduate Students**
+- <strong>Postgraduate Students</strong>
 
 <div class="students-grid">
   <div class="student-card">
@@ -56,7 +56,7 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
   </div>
 </div>
 
-- **Undergraduate Students**
+- <strong>Undergraduate Students</strong>
     - Hengle Jiang, Undergraduate Student from SUSTech, 2024 Fall –  
     - Larry Kwun Ho Liu, Undergraduate Student from HKUST, 2025 Spring –  
     - Yuchen Wang, Undergraduate Student from HKUST, 2025 Spring –  
@@ -64,7 +64,7 @@ I lead the **M**obile, **I**ntelligent, and **N**etworked **Sys**tem (**MINSys**
     - Hongyu Chen, Undergraduate Student from HKUST, 2025 Summer –  
     - Jiajun Fu, Undergraduate Student from USTC, 2025 Summer –  
 
-- **Co-advising Students**
+- <strong>Co-advising Students</strong>
     - Yolanda Lau, Ph.D. Student at UCL (serve as the secondary supervisor), 2024 Spring –  
 
 ---
