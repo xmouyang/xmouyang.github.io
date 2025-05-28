@@ -29,7 +29,8 @@ I lead the <strong>M</strong>obile, <strong>I</strong>ntelligent, and <strong>N<
   <div class="student-card">
     <img src="../assets/img/Yizhen_photo.jpg" alt="Yizhen Wang" />
     <h4>Yizhen Wang</h4>
-    <p>Ph.D. student, BS Zhejiang U.,  <h4>Hong Kong PhD Fellowship<h4> </p>
+    <p>Ph.D. student, BS Zhejiang U. </p>
+    <p><h4>Hong Kong PhD Fellowship<h4></p>
     <p><em>(2025 Fall – )</em></p>
   </div>
   <div class="student-card">
