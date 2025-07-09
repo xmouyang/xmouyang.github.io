@@ -18,37 +18,44 @@ nav_order: 0
   </div>
 </div>
 
-<h3>Postgraduate Students</h3>
+<h3>Postgraduate Students (Ph.D. and MPhil)</h3>
 <div class="students-grid">
   <div class="student-card">
     <img src="../assets/img/Runxi_photo.jpg" alt="Runxi Huang" />
     <h4><a href="https://hrx20000209.github.io/">Runxi Huang</a></h4>
-    <p>Ph.D. student, MS NTU, BS BeiHang U.</p>
+    <p>MS NTU, BS BeiHang U.</p>
     <p><em>(2024 Fall – )</em></p>
   </div>
   <div class="student-card">
     <img src="../assets/img/Yizhen_photo.jpg" alt="Yizhen Wang" />
     <h4>Yizhen Wang</h4>
-    <p>Ph.D. student, BS Zhejiang U.</p>
+    <p>BS Zhejiang U.</p>
     <p class="fellowship">Hong Kong PhD Fellowship</p>
     <p><em>(2025 Fall – )</em></p>
   </div>
   <div class="student-card">
     <img src="../assets/img/Liyu_photo.jpg" alt="Liyu Zhang" />
     <h4><a href="https://doriszhang.cafe">Liyu Zhang</a></h4>
-    <p>Ph.D. student, BS HKUST</p>
+    <p>BS HKUST</p>
     <p><em>(2025 Fall – )</em></p>
   </div>
   <div class="student-card">
     <img src="../assets/img/Yejia_photo.jpg" alt="Yejia Liu" />
     <h4><a href="https://yejialiu.github.io//YejiaLiupages.github.io/">Yejia Liu</a></h4>
-    <p>MPhil. student, BS Shanghai Jiaotong U.</p>
+    <p>BS Shanghai Jiaotong U.</p>
     <p><em>(2025 Fall – )</em></p>
   </div>
   <div class="student-card">
     <img src="../assets/img/Haoxian_photo.jpg" alt="Haoxian Liu" />
     <h4>Haoxian Liu</h4>
-    <p>MPhil. student, BS SUSTech</p>
+    <p>BS SUSTech</p>
+    <p><em>(2025 Fall – )</em></p>
+  </div>
+  <div class="student-card">
+    <img src="../assets/img/Yuchen_photo.jpg" alt="Yuchen Wang" />
+    <h4>Yuchen Wang</h4>
+    <p>BS Tsinghua U.</p>
+    <p><em>(co-advised with <a href="https://xmengli.github.io/">Prof. Xiaomeng Li</a>)</em></p>
     <p><em>(2025 Fall – )</em></p>
   </div>
 </div>
