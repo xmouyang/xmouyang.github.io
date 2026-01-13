@@ -38,7 +38,7 @@ I am an Assistant Professor at Department of Computer Science & Engineering, Hon
 
 My current research interest is **empowering mobile and IoT devices with AI** to create **ambient intelligence** for **smart health** applications.
 
-- **Embedded AI**: address real-world data and system challenges for advancing ML in mobile/IoT systems.
+- **On-device and embodied AI**: address real-world data and system challenges for advancing ML in mobile/IoT/embodied systems.
 - **Smart Health**: design and deploy real-world IoT systems for personalized health monitoring and intervention, e.g., [monitoring digital biomarkers of Alzheimer’s Disease](https://cuhk-alzheimers-ai.github.io/).
 - **Mobile Sensing**: enhance sensing quality with physics-strengthened AI techniques.
 
