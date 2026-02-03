@@ -25,7 +25,7 @@ permalink: /teaching/comp4901d-2026-spring/
 
 The major topics include 1) Fundamentals of machine learning and embedded systems; 2) Data and system challenges in embedded AI; 3) AI techniques and their efficient deployment on cutting-edge platforms; 4)Real-world applications, such as mobile agent and smart health. The course structure will primarily consist of instructor lectures, paper presentations and hands-on projects/labs.
 
-**Course Objectives**: After completion of this course, the students will have an in-depth understanding of challenges in embedded AI systems, hands-on experience in implementing state-of-the-art embedded AI algorithms in real-world systems or applications, critical thinking ability to tackle embedded AI problems, and the skills to deploy AI models (including large language models, LLMs) on embedded, mobile, and edge devices for applications such as mobile agents and smart health.
+**Course Objectives**: After completion of this course, the students will have an in-depth understanding of challenges in embedded AI systems, and be equipped to deploy AI models, including large language models (LLMs), on embedded, mobile and edge devices for applications such as mobile agents, smart health, and more.
 
 **Pre-requisite**: (COMP 2012 OR COMP 2012H) AND COMP 2211. Basic understanding of machine learning is required. Familiarity or experience with the fundamentals of embedded or mobile systems are preferred.
 
