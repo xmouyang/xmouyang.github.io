@@ -93,31 +93,31 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Feb 4 (Tuesday)</td>
     <td>Course Introduction and Overview</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXGmkH_O7U9KiqRm-EOl1jsBAoCRMgO9zQB9Fil0TlJ3_A?e=HXbjUF">Lecture 0</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQDLb3UCynXxTZOoiaXcqKSXATcCp07joUuyy7IVUmPFRFw?e=BCpnQs">Lecture 0</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 6 (Thursday)</td>
     <td>Machine Learning Basics</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/ERgCd2Rp_qNHtDCE6XxhotABLyEb85MVBq6RT4dwk_vfxA?e=FV3BCb">Lecture 1</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQCWDRonRl7JSqbAfiR2wAcTATdHVf3dTnHjQm7tt58522w?e=IfbGei">Lecture 1</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 11 (Tuesday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:p:/g/personal/wduaj_connect_ust_hk/EYQZNstc11lAixmvPqcoBf8Bbx3Ure6pyqwskjknbLW92A?e=KUP2fM">Lecture 2</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQCB-XKAIyoCToyPDOWFb8O4AT5qSP8NIEL9mmVEaTEy3IE?e=ByJwGw">Lecture 2</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 13 (Thursday)</td>
     <td>Challenges in Embedded AI Systems</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EV-YRXuW8t1EhExBVPwlFhsBI_PAYpri77_VMmk34AgDVw?e=4y7bE7">Lecture 3</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQBtnEO6SrHDSovHwuky2rTcAYhYQUcFYoJymXS8R74bYXk?e=MDvbr0">Lecture 3</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Feb 18 (Tuesday)</td>
     <td>Unsupervised Learning</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXf1lf13p3JLr_nqE-ibkvsBMAVRquCalDlYC-Wxjq1-TA?e=oj5CtF">Lecture 4</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQCaLedHGcepTr7HhFOfQoyUARgLuOX0eCuqd-J_K5sJjIo?e=4o2ER5">Lecture 4</a></td>
     <td></td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ permalink: /teaching/comp6611c-2025-spring/
   <tr>
     <td>Mar 4 (Tuesday)</td>
     <td>Multimodal Sensing and Learning</td>
-    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/wduaj_connect_ust_hk/EXqABV6pI2hAuthMoEH_N2sB5x4KYWX3YbLA0BnKPtO_EQ?e=pG0wtZ">Lecture 5</a></td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQBgtJDt04LJTKQgQPN45PthARCWAeFz-Yu5fHPxpp9B064?e=fVK1TI">Lecture 5</a></td>
     <td></td>
   </tr>
   
