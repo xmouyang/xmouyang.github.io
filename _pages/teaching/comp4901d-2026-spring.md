@@ -56,7 +56,10 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <th>Date</th><th>Topics</th><th>Materials</th><th>Note</th>
   </tr>
   <tr>
-    <td>Feb 4 (Wednesday)</td><td>Course Introduction and Overview</td><td></td><td></td>
+    <td>Feb 4 (Wednesday)</td>
+    <td>Course Introduction and Overview</td>
+    <td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQAu4n3-3bYQSJYjSxNPFEsVAWnnUxRUzJZ38-_ZOvR21bE?e=4wy9FW">Lecture 0</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Feb 6 (Friday)</td><td>Fundamentals of Machine Learning and Embedded Systems</td><td></td><td></td>
