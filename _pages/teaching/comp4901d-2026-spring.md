@@ -62,19 +62,22 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td></td>
   </tr>
   <tr>
-    <td>Feb 6 (Friday)</td><td>Fundamentals of Machine Learning and Embedded Systems</td><td></td><td></td>
+    <td>Feb 6 (Friday)</td><td>Machine Learning Basics</td><td></td><td></td>
   </tr>
   <tr>
-    <td>Feb 11 (Wednesday)</td><td>Challenges in Embedded AI Systems</td><td></td><td></td>
+    <td>Feb 11 (Wednesday)</td><td>Course Projects & Challenges in Embedded AI Systems</td><td></td><td></td>
   </tr>
   <tr>
-    <td>Feb 13 (Friday)</td><td>AI Techniques for Distributed and Imperfect Data - Unsupervised Learning</td><td></td><td></td>
+    <td>Feb 13 (Friday)</td><td>Challenges in Embedded AI Systems</td><td></td><td></td>
   </tr>
   <tr>
     <td>Feb 18 (Wednesday)</td><td>No class (Public Holiday)</td><td></td><td></td>
   </tr>
   <tr>
-    <td>Feb 20 (Friday)</td><td></td><td></td><td>Cancelled (Makeup time to be determined)</td>
+    <td>Feb 20 (Friday)</td><td></td><td></td><td>Cancelled (Makeup on Feb 23)</td>
+  </tr>
+  <tr>
+    <td>Feb 23 (Monday)</td><td>AI Techniques for Distributed and Imperfect Data - Unsupervised Learning</td><td></td><td></td>
   </tr>
   <tr>
     <td>Feb 25 (Wednesday)</td><td>AI Techniques for Distributed and Imperfect Data - Unsupervised Learning</td><td></td><td>Paper Presentation</td>
