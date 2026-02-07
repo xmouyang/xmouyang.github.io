@@ -19,7 +19,7 @@ nav_order: 4
 **Technical Program Committee**
 
 - ACM MobiSys 2025
-- ACM SenSys 2025, 2024
+- ACM SenSys 2026, 2025, 2024
 - IEEE ICDCS 2024
 - IEEE ICPADS 2024
 - ACM MobiCom 2024 Artifact Evaluation
