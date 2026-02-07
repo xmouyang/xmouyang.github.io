@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Our paper “[MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding](https://www.arxiv.org/abs/2510.25327)” was accepted by @ [SenSys'2026](https://sensys.acm.org/2026/). Congrats to Runxi!
+Our paper “[MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding](https://www.arxiv.org/abs/2510.25327)” was accepted by @ [SenSys'2026](https://sensys.acm.org/2026/) in the summer round (accept rate 18.6%). Congrats to Runxi!
