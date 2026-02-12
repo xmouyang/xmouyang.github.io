@@ -68,7 +68,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Feb 11 (Wednesday)</td><td>Course Projects & Challenges in Embedded AI Systems</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQDoStBMHku-TrEbRfqXErxYAUErEN44cUEGaRLsgZ9_Om4?e=HXKoTT">Lecture 2</a></td><td></td>
   </tr>
   <tr>
-    <td>Feb 13 (Friday)</td><td>Challenges in Embedded AI Systems</td><td></td><td></td>
+    <td>Feb 13 (Friday)</td><td>Challenges in Embedded AI Systems</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQAv6NHdbOHWT7mtM-_gAGzrAVRSyi8d0g7bz7jspl5HbBs?e=imTEMq">Lecture 3</a></td><td></td>
   </tr>
   <tr>
     <td>Feb 18 (Wednesday)</td><td>No class (Public Holiday)</td><td></td><td></td>
