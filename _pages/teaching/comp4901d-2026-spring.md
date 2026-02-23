@@ -77,7 +77,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Feb 20 (Friday)</td><td>Cancelled (Makeup on Feb 23)</td><td></td><td></td>
   </tr>
   <tr>
-    <td>Feb 23 (Monday)</td><td>AI Techniques for Distributed and Imperfect Data - Unsupervised Learning</td><td></td><td></td>
+    <td>Feb 23 (Monday)</td><td>AI Techniques for Distributed and Imperfect Data - Unsupervised Learning</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQADJbdjh3aGRbtiUgJxc6ygAV4h2ZTL_sSYPtLPCGAR37E?e=pWRWIx">Lecture 4</a></td><td></td>
   </tr>
   <tr>
     <td>Feb 25 (Wednesday)</td><td>AI Techniques for Distributed and Imperfect Data - Unsupervised Learning</td><td></td><td>Paper Presentation</td>
