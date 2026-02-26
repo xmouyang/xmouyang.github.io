@@ -83,7 +83,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Feb 25 (Wednesday)</td><td>AI Techniques for Distributed and Imperfect Data - Unsupervised Learning</td><td></td><td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>Feb 27 (Friday)</td><td>AI Techniques for Distributed and Imperfect Data - Multimodal and Federated Learning</td><td></td><td></td>
+    <td>Feb 27 (Friday)</td><td>AI Techniques for Distributed and Imperfect Data - Multimodal and Federated Learning</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQDQDFQwRj5lR7zbhm-gjvOrAZcJ5wOx5v9M80WYbLbeoQg?e=IColdC">Lecture 5</a></td><td></td>
   </tr>
   <tr>
     <td>Mar 4 (Wednesday)</td><td>AI Techniques for Distributed and Imperfect Data - Multimodal and Federated Learning</td><td></td><td>Paper Presentation</td>
