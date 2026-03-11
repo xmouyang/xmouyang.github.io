@@ -92,7 +92,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Mar 6 (Friday)</td><td>**Project Proposal Presentation & Feedback**</td><td></td><td>8min pre + 2min QA</td>
   </tr>
   <tr>
-    <td>Mar 11 (Wednesday)</td><td>Physics-strengthen AI for Sensing Systems</td><td></td><td></td>
+    <td>Mar 11 (Wednesday)</td><td>Physics-strengthen AI for Sensing Systems</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQAVauh8i3vqTJN0SraDt3NdAW-zLolQthctil7BFcHCanA?e=jRVioA">Lecture 7</a></td><td></td>
   </tr>
   <tr>
     <td>Mar 13 (Friday)</td><td>Physics-strengthen AI for Sensing Systems</td><td></td><td>Paper Presentation</td>
