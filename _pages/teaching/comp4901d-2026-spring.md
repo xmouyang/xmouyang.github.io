@@ -98,7 +98,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Mar 13 (Friday)</td><td>Physics-strengthen AI for Sensing Systems</td><td></td><td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>Mar 18 (Wednesday)</td><td>Efficient Deep Learning on the Edge – Model Compression</td><td></td><td></td>
+    <td>Mar 18 (Wednesday)</td><td>Efficient Deep Learning on the Edge – Model Compression</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQC2TbkTxnd-TrggTBVAikSgAZ3M0-kVfNUqRW-PkZRl4sI?e=tutIy4">Lecture 8</a></td><td></td>
   </tr>
   <tr>
     <td>Mar 20 (Friday)</td><td>Efficient Deep Learning on the Edge – Runtime Optimization</td><td></td><td></td>
