@@ -101,7 +101,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Mar 18 (Wednesday)</td><td>Efficient Deep Learning on the Edge – Model Compression</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQC2TbkTxnd-TrggTBVAikSgAZ3M0-kVfNUqRW-PkZRl4sI?e=tutIy4">Lecture 8</a></td><td></td>
   </tr>
   <tr>
-    <td>Mar 20 (Friday)</td><td>Efficient Deep Learning on the Edge – Runtime Optimization</td><td></td><td></td>
+    <td>Mar 20 (Friday)</td><td>Efficient Deep Learning on the Edge – Runtime Optimization</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQB8Z_Twgzg9QoFtFvLeWv74AVg4OSyEHXqAsHb3B0BAx8U?e=77vXXZ">Lecture 9</a></td><td></td>
   </tr>
   <tr>
     <td>Mar 25 (Wednesday)</td><td>Efficient Deep Learning on the Edge</td><td></td><td>Paper Presentation</td>
