@@ -107,10 +107,10 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Mar 25 (Wednesday)</td><td>Efficient Deep Learning on the Edge</td><td></td><td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>Mar 27 (Friday)</td><td>**Midterm Project Presentation**</td><td></td><td>15min pre + 5min QA</td>
+    <td>Mar 27 (Friday)</td><td>**Midterm Project Presentation**</td><td></td><td>10min + 3min QA</td>
   </tr>
   <tr>
-    <td>April 1 (Wednesday)</td><td>**Midterm Project Presentation**</td><td></td><td>15min pre + 5min QA</td>
+    <td>April 1 (Wednesday)</td><td>**Midterm Project Presentation**</td><td></td><td>10min + 3min QA</td>
   </tr>
   <tr>
     <td>April 3 (Friday)</td><td>No class (Midterm Break)</td><td></td><td></td>
@@ -140,10 +140,10 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>May 1 (Friday)</td><td>No class (Public Holiday)</td><td></td><td></td>
   </tr>
   <tr>
-    <td>May 6 (Wednesday)</td><td>**Final Project Presentation**</td><td></td><td>15min pre + 5min QA</td>
+    <td>May 6 (Wednesday)</td><td>**Final Project Presentation**</td><td></td><td>10min + 3min QA</td>
   </tr>
   <tr>
-    <td>May 8 (Friday)</td><td>**Final Project Presentation**</td><td></td><td>15min pre + 5min QA</td>
+    <td>May 8 (Friday)</td><td>**Final Project Presentation**</td><td></td><td>10min + 3min QA</td>
   </tr>
   <tr>
     <td>May 9 (Saturday)</td><td>Report Deadline</td><td></td><td></td>
