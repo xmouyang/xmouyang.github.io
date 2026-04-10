@@ -104,7 +104,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>Mar 20 (Friday)</td><td>Efficient Deep Learning on the Edge – Runtime Optimization</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQB8Z_Twgzg9QoFtFvLeWv74AVg4OSyEHXqAsHb3B0BAx8U?e=77vXXZ">Lecture 9</a></td><td></td>
   </tr>
   <tr>
-    <td>Mar 25 (Wednesday)</td><td>Efficient Deep Learning on the Edge</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQAqsqOXq43RTbBGx5CWwz0WAVBeFK-HNUT9hKMMWcB3BdU?e=X1TrAJ">Lecture10</a></td><td>Paper Presentation</td>
+    <td>Mar 25 (Wednesday)</td><td>Efficient Deep Learning on the Edge</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQCo56dpN55iTa4RQTr3CsuzAcl97heotgnDY7sDIfnQJG4?e=PMcUez">Lecture10</a></td><td>Paper Presentation</td>
   </tr>
   <tr>
     <td>Mar 27 (Friday)</td><td>**Midterm Project Presentation**</td><td></td><td>10min + 3min QA</td>
@@ -119,7 +119,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>April 8 (Wednesday)</td><td>No class (Midterm Break)</td><td></td><td></td>
   </tr>
   <tr>
-    <td>April 10 (Friday)</td><td>LLMs and Foundation Models on the Edge - Applications</td><td></td><td></td>
+    <td>April 10 (Friday)</td><td>LLMs and Foundation Models on the Edge - Applications</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQCo56dpN55iTa4RQTr3CsuzAcl97heotgnDY7sDIfnQJG4?e=PMcUez">Lecture10</a></td><td></td>
   </tr>
   <tr>
     <td>April 15 (Wednesday)</td><td>LLMs and Foundation Models on the Edge - Applications</td><td></td><td>Paper Presentation</td>
