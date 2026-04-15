@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2026-01-29 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+
+Our paper “[MoViD: View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement](https://arxiv.org/abs/2604.03299)” and "[WearBCI Dataset: Understanding and Benchmarking Real-World Wearable Brain-Computer Interfaces Signals](https://arxiv.org/abs/2604.09649)" was accepted by @ [SenSys'2026](https://sensys.acm.org/2026/) winter round. Congrats to Yejia, Hengle and Haoxian!
+
