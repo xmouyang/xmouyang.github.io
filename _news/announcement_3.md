@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2025-07-9 15:59:00-0400
+date: 2026-01-29 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Received the [Early Career Scheme Fund](https://www.ugc.edu.hk/eng/rgc/funding_opport/ecs/) from HK RGC; and congratulations to Yizhen for receiving [HK PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html) from HK RGC!
+
+Our paper “[MoViD: View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement](https://arxiv.org/abs/2604.03299)” and "[WearBCI Dataset: Understanding and Benchmarking Real-World Wearable Brain-Computer Interfaces Signals](https://arxiv.org/abs/2604.09649)" was accepted by @ [SenSys'2026](https://sensys.acm.org/2026/) winter round. Congrats to Yejia, Hengle and Haoxian!
 
