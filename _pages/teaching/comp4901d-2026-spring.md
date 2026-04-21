@@ -125,7 +125,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>April 15 (Wednesday)</td><td>LLMs and Foundation Models on the Edge - Applications</td><td></td><td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>April 17 (Friday)</td><td>LLMs and Foundation Models on the Edge - Efficiency</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQCgJpKAzU36Sav0kufVXTkuAeN1IiFuNHfOeys5SjxIwBQ?e=Xz6k8o">Lecture11</a></td><td></td>
+    <td>April 17 (Friday)</td><td>LLMs and Foundation Models on the Edge - Efficiency</td><td></td><td></td>
   </tr>
   <tr>
     <td>April 22 (Wednesday)</td><td>LLMs and Foundation Models on the Edge - Efficiency</td><td></td><td>Paper Presentation</td>
@@ -134,16 +134,16 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>April 24 (Friday)</td><td>Applications and End-to-end Systems</td><td></td><td></td>
   </tr>
   <tr>
-    <td>April 29 (Wednesday)</td><td>Applications and End-to-end Systems</td><td></td><td>Paper Presentation</td>
+    <td>April 29 (Wednesday)</td><td>Student Presentation (20 mins) + Final Review &amp; Q&A</td><td></td><td></td>
   </tr>
   <tr>
-    <td>May 1 (Friday)</td><td>No class (Public Holiday)</td><td></td><td></td>
+    <td>May 1 (Friday)</td><td>No class</td><td></td><td>Public Holiday</td>
   </tr>
   <tr>
-    <td>May 6 (Wednesday)</td><td>**Final Project Presentation**</td><td></td><td>10min + 3min QA</td>
+    <td>May 6 (Wednesday)</td><td>Final Project Presentation</td><td></td><td>15min pre + 5min QA</td>
   </tr>
   <tr>
-    <td>May 8 (Friday)</td><td>**Final Project Presentation**</td><td></td><td>10min + 3min QA</td>
+    <td>May 8 (Friday)</td><td>Final Project Presentation</td><td></td><td>15min pre + 5min QA</td>
   </tr>
   <tr>
     <td>May 9 (Saturday)</td><td>Report Deadline</td><td></td><td></td>
