@@ -131,10 +131,10 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>April 22 (Wednesday)</td><td>LLMs and Foundation Models on the Edge - Efficiency</td><td></td><td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>April 24 (Friday)</td><td>Applications and End-to-end Systems</td><td></td><td></td>
+    <td>April 24 (Friday)</td><td>Applications and End-to-end Systems</td><td></td><td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>April 29 (Wednesday)</td><td>Applications and End-to-end Systems</td><td></td><td>Paper Presentation</td>
+    <td>April 29 (Wednesday)</td><td>Final Review + Q&A</td><td></td><td></td>
   </tr>
   <tr>
     <td>May 1 (Friday)</td><td>No class (Public Holiday)</td><td></td><td></td>
