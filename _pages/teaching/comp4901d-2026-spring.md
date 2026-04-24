@@ -131,7 +131,7 @@ The major topics include 1) Fundamentals of machine learning and embedded system
     <td>April 22 (Wednesday)</td><td>LLMs and Foundation Models on the Edge - Efficiency</td><td></td><td>Paper Presentation</td>
   </tr>
   <tr>
-    <td>April 24 (Friday)</td><td>Applications and End-to-end Systems</td><td></td><td></td>
+    <td>April 24 (Friday)</td><td>Applications and End-to-end Systems</td><td><a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/lzhangcx_connect_ust_hk/IQAar3a8D-cASZeHh0MO6JAdAUmWXl8qbAJ-CzROqG6JH98?e=4gpVdM">Lecture12</a></td><td></td>
   </tr>
   <tr>
     <td>April 29 (Wednesday)</td><td>Student Presentation (20 mins) + Final Review &amp; Q&A</td><td></td><td></td>
