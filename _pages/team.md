@@ -79,7 +79,7 @@ nav_order: 0
   <div class="student-card">
     <img class="student-photo-padded" src="../assets/img/Bin_photo.jpg" alt="Bin Zhou" />
     <h4>Bin Zhou</h4>
-    <p>MS HKUST</p>
+    <p>MS HKUST, BS SICAU</p>
     <p><em>(co-supervised with <a href="https://seng.hkust.edu.hk/about/people/faculty/kani-chen">Prof. Kani Chen</a>)</em></p>
     <p><em>(2026 Fall – )</em></p>
   </div>
