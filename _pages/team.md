@@ -66,7 +66,7 @@ nav_order: 0
   </div>
   <div class="student-card">
     <img class="student-photo-padded" src="../assets/img/Kun_photo.jpg" alt="Qian Kun" />
-    <h4>Qian Kun</h4>
+    <h4>Kun Qian</h4>
     <p>BS HUST</p>
     <p><em>(2026 Fall – )</em></p>
   </div>
