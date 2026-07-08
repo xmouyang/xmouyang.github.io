@@ -58,6 +58,31 @@ nav_order: 0
     <p><em>(co-advised with <a href="https://xmengli.github.io/">Prof. Xiaomeng Li</a>)</em></p>
     <p><em>(2025 Fall – )</em></p>
   </div>
+  <div class="student-card">
+    <img class="student-photo-padded" src="../assets/img/Dehao_photo.jpg" alt="Dehao Wang" />
+    <h4><a href="https://wonderhow.site">Dehao Wang</a></h4>
+    <p>BS BIT</p>
+    <p><em>(2026 Fall – )</em></p>
+  </div>
+  <div class="student-card">
+    <img class="student-photo-padded" src="../assets/img/Kun_photo.jpg" alt="Qian Kun" />
+    <h4>Qian Kun</h4>
+    <p>BS HUST</p>
+    <p><em>(2026 Fall – )</em></p>
+  </div>
+  <div class="student-card">
+    <img class="student-photo-padded" src="../assets/img/Alex_photo.jpg" alt="Alex Ding" />
+    <h4>Alex Ding</h4>
+    <p>BS UBC</p>
+    <p><em>(2026 Fall – )</em></p>
+  </div>
+  <div class="student-card">
+    <img class="student-photo-padded" src="../assets/img/Bin_photo.jpg" alt="Bin Zhou" />
+    <h4>Bin Zhou</h4>
+    <p>MS HKUST</p>
+    <p><em>(co-supervised with <a href="https://seng.hkust.edu.hk/about/people/faculty/kani-chen">Prof. Kani Chen</a>)</em></p>
+    <p><em>(2026 Fall – )</em></p>
+  </div>
 </div>
 
 <h3>Undergraduate Students</h3>
@@ -119,6 +144,10 @@ nav_order: 0
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 0.5rem;
+}
+.student-card img.student-photo-padded {
+  background: #fff;
+  object-fit: contain;
 }
 .student-card h4 {
   margin: 0.5rem 0 0.25rem;
