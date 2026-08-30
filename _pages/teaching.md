@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 **Teaching**
+- 2026 Fall: [COMP5621 Computer Networks]({{ '/teaching/comp5621-2026-fall/' | relative_url }})
 - 2026 Spring: [COMP4901D Embedded AI Systems]({{ '/teaching/comp4901d-2026-spring/' | relative_url }})
 - 2025 Fall: [COMP2011 Programming with C++]({{ 'https://course.cse.ust.hk/comp2011/web/announcements.html' | relative_url }})
 - 2025 Spring: [COMP6611C Advanced Topics in Embedded AI Systems]({{ '/teaching/comp6611c-2025-spring/' | relative_url }})
