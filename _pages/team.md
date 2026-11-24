@@ -18,6 +18,15 @@ nav_order: 0
   </div>
 </div>
 
+<h3>Postdoctoral Researchers</h3>
+<div class="students-grid">
+  <div class="student-card">
+    <img class="student-photo-padded" src="../assets/img/Ma_Xiao_photo.jpg" alt="Ma Xiao" />
+    <h4><a href="https://themaxiao.github.io/">Ma Xiao</a></h4>
+    <p>PhD Singapore Management University (SMU)</p>
+  </div>
+</div>
+
 <h3>Postgraduate Students (Ph.D. and MPhil)</h3>
 <div class="students-grid">
   <div class="student-card">
